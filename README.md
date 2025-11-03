@@ -1,2 +1,29 @@
 # Privacy-policy-
 Privacy policy and terms of service for RENOVA app
+ReNova Privacy Policy & Terms of Service
+1. Introduction
+Welcome to ReNova, operated by Dejack Digital Global Tech Systems. This Privacy Policy explains how we collect, use, and protect your personal information when you use our application or website. By accessing or using ReNova, you agree to this Privacy Policy and our Terms of Service.
+
+2. Information We Collect
+We may collect personal data including your name, email address, facial verification data, and usage activity. This information helps us improve user safety, app features, and communication within ReNova.
+
+3. User Verification and Anti-Fraud Policy
+To maintain a safe community, all users must verify their face before using ReNova. The verified face must match the profile photo. Fake profiles, misleading identities, or the use of another person’s image are strictly prohibited. Any form of scamming, fraud, or impersonation is not accepted and may result in permanent account suspension or ban.
+
+4. How We Use Your Information
+Your information is used to provide secure access to the platform, verify identity, and maintain the integrity of our community. We do not sell, rent, or trade your data with third parties.
+
+5. Data Protection
+We follow global privacy standards such as GDPR, NDPR, and CCPA to protect your data. All personal information is securely stored and processed only for the purposes described in this policy.
+
+6. User Responsibilities
+All users must provide accurate information, use real photos, and follow our guidelines. Any attempt to deceive, scam, or impersonate others is a violation of ReNova’s Terms and will lead to account termination.
+
+7. Terms of Service
+By using ReNova, you agree not to misuse the platform. You must respect other users and comply with our verification and anti-fraud rules. We reserve the right to suspend or terminate accounts violating these terms.
+
+8. Contact Information
+If you have any questions about this Privacy Policy or our Terms of Service, please contact us at: appointedkindnessjaja@gmail.com
+
+Visit ReNova
+© 2025 Dejack Digital Global Tech Systems. All rights reserved.
